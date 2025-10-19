@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter} from "react-router";
 import './index.css'
-import App from './practice/week04/search_page/App.jsx'
+import App from './practice/week05/App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
